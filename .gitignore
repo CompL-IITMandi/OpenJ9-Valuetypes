@@ -27,6 +27,7 @@
 /omr
 /openj9
 /openssl
+/test
 # exclude optional eclipse project file
 /.project
 
