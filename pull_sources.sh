@@ -1,5 +1,7 @@
 #!/bin/bash
 # exit immediately if any unexpected error occurs
+
+
 set -e
 
 # Get clones of OpenJ9 absent repositories
